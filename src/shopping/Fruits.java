@@ -8,4 +8,8 @@ public class Fruits {
 
     //banana 3
 
+    //kiwi 1
+
+    //melon 1
+
 }
